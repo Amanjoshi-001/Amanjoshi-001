@@ -1,16 +1,26 @@
-## Hi there 👋
+PREVIEW
 
-<!--
-**Amanjoshi-001/Amanjoshi-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🔭 Currently working at ConsultIT, gaining hands-on experience in real-world IT solutions.
+🤝 Open to collaborating on Data Engineering and Data Analytics projects.
+🆘 Looking for help with Python, SQL, Pandas, and PySpark to strengthen my data expertise.
+🌱 Currently learning Data Engineering and ETL pipeline development.
+💬 Ask me about SQL and database concepts.
+⚡ Fun fact: I enjoy turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+🌐 Socials:
+Instagram LinkedIn X email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Python MySQL Postgres Google Cloud AWS Azure MySQL Postgres Pandas Matplotlib Git Docker Power Bi Postman Apache Airflow
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🔝 Top Contributed Repo
+
+
