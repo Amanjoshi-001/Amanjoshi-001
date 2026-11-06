@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 Currently working at ConsultIT, gaining hands-on experience in real-world IT solutions.<br>🤝 Open to collaborating on Data Engineering and Data Analytics projects.<br>🆘 Looking for help with Python, SQL, Pandas, and PySpark to strengthen my data expertise.<br>🌱 Currently learning Data Engineering and ETL pipeline development.<br>💬 Ask me about SQL and database concepts.<br>⚡ Fun fact: I enjoy turning raw data into meaningful insights.
 
 
 ## 🌐 Socials:
